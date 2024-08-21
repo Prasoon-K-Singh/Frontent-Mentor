@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This project is part of the frontend mentor challenges and this is my first project from frontend mentor. It is a simple qr code component which is consist of a qr code and some text in the card.
@@ -20,8 +18,8 @@ This project is part of the frontend mentor challenges and this is my first proj
 
 ### Links
 
-- Solution URL: [Github Link](https://your-solution-url.com)
-- Live Site URL: [Netlify Link](https://your-live-site-url.com)
+- Solution URL: [Github Link](https://github.com/Prasoon-K-Singh/Frontent-Mentor)
+- Live Site URL: [Netlify Link](https://qr-code-fmentor.netlify.app/)
 
 ## My process
 
@@ -40,6 +38,6 @@ To build this project, used HTML for the basic structure of the project and CSS 
 
 ## Author
 
-- Website - [Prasoon Kumar Singh](https://www.your-site.com)
-- Frontend Mentor - [@Prasoon-K-Singh](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Syntax_Sage](https://www.twitter.com/yourusername)
+- Github - [Prasoon-K-Singh](https://github.com/Prasoon-K-Singh)
+- Twitter - [@Syntax_Sage](https://www.x.com/Syntax_Sage)
+- Frontend Mentor - [@Prasoon-K-Singh](https://www.frontendmentor.io/profile/Prasoon-K-Singh)

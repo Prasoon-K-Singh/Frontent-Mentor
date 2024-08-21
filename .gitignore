@@ -13,4 +13,12 @@
 
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
+Thumbs.db
 .prettierignore
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+
+# Logs
+*.log
